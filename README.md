@@ -6,6 +6,8 @@ Practice project for vitest and solidjs.
 
 Vitest on watch mode shows all tests as failing after any change in the code.
 
+[Demo video](https://share.cleanshot.com/fZD758Yy)
+
 - Environment:
   - Mac OS 13.2.1
   - Node 19.6.0
