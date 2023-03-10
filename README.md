@@ -25,9 +25,12 @@ Vitest on watch mode shows all tests as failing after any change in the code.
       - All tests should pass
 
   3. Make a valid change in `todo-list.tsx` and save.
-      - Expected: All tests should pass
-      - Observed: All tests fail
+     - Expected: All tests should pass
+     - Observed: All tests fail
 
   4. Undo change. Resetting the file to the original state.
-  - Expected: All tests should pass
-  - Observed: All tests fail
+     - Expected: All tests should pass
+     - Observed: All tests fail
+
+  5. Stop the test runner and start it again.
+     - All tests pass
